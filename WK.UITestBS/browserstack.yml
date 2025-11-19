@@ -1,0 +1,17 @@
+﻿userName: 
+accessKey: 
+buildName: WK.UITestBS Build
+platforms:
+  - browserName: Chrome
+    os: Windows
+    osVersion: 10
+    browserVersion: 120.0
+  - browserName: Safari
+    os: OS X
+    osVersion: Monterey
+    browserVersion: 15.6
+  - browserName: chromium
+    osVersion: 15
+    deviceName: iPhone 13
+buildIdentifier: ${BUILD_NUMBER}
+consoleLogs: info

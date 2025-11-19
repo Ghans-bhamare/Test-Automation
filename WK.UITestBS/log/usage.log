@@ -1,0 +1,1281 @@
+2025-10-08 17:48:41.7442|INFO|browserstack_sdk.Program|SDK run started with id: 1d8a28fd-f135-40f0-acea-f7b93685edba
+2025-10-08 17:48:41.7856|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll, Debug
+2025-10-08 17:48:41.8561|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 17:48:53.6279|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-08 17:48:53.6345|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-08 17:48:54.6237|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-08 17:48:55.1175|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll
+2025-10-08 17:48:55.1175|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-08 17:48:55.1175|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-08 17:48:55.1695|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 17:50:00.6624|INFO|browserstack_sdk.Program|SDK run started with id: 8b371dd4-84a2-4d3c-9e14-165f14ec469f
+2025-10-08 17:50:00.6927|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll, Debug
+2025-10-08 17:50:00.7687|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 17:50:06.5250|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-08 17:50:06.5271|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-08 17:50:06.9846|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-08 17:50:07.2713|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll
+2025-10-08 17:50:07.2713|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-08 17:50:07.2713|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-08 17:50:07.3031|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 17:55:38.5925|INFO|browserstack_sdk.Program|SDK run started with id: c587e6c4-0f7f-42c2-a304-5acdda782ec3
+2025-10-08 17:55:38.6640|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll, Debug
+2025-10-08 17:55:38.7824|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 17:55:51.3231|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-08 17:55:51.3462|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-08 17:55:52.1495|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-08 17:55:52.7027|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll
+2025-10-08 17:55:52.7027|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-08 17:55:52.7027|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-08 17:55:52.7513|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 18:26:48.7405|INFO|browserstack_sdk.Program|SDK run started with id: a4cacf5f-0c2b-4977-8b44-dc2282c6936e
+2025-10-08 18:26:48.7896|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll, Debug
+2025-10-08 18:26:48.8814|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-08 18:26:54.9329|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-08 18:26:54.9329|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-08 18:26:55.3954|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-08 18:26:55.6411|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\WK.UITestnew.dll
+2025-10-08 18:26:55.6411|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestnew\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-08 18:26:55.6411|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-08 18:26:55.6649|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:31:30.3864|INFO|browserstack_sdk.Program|SDK run started with id: de4573e1-6b6c-4363-a32c-b6c390ab76c2
+2025-10-13 19:31:30.4292|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:31:30.5127|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:31:36.7984|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:31:36.7984|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:31:37.4478|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:31:37.8365|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:31:37.8388|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:31:37.8388|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-13 19:31:37.8928|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:33:05.1940|INFO|browserstack_sdk.Program|SDK run started with id: 62ca2947-42ee-42d5-a741-16d629d4629f
+2025-10-13 19:33:05.2292|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:33:05.3098|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:33:11.5934|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:33:11.5934|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:33:12.0597|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:33:12.3609|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:33:12.3609|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:33:12.3609|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:33:12.3922|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:36:42.5971|INFO|browserstack_sdk.Program|SDK run started with id: ef932b67-65ed-4946-8749-3add185c4cca
+2025-10-13 19:36:42.6363|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:36:42.7141|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:36:48.5599|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:36:48.5599|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:36:49.0525|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:36:49.4166|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:36:49.4166|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:36:49.4166|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:36:49.4505|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:38:07.8190|INFO|browserstack_sdk.Program|SDK run started with id: 97f9e284-7cce-4b8a-bac3-7ac0f6f91896
+2025-10-13 19:38:07.8841|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:38:08.0123|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:38:17.3235|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:38:17.3235|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:38:17.9562|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:38:18.4871|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:38:18.4871|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:38:18.4871|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:38:18.5439|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:42:32.4208|INFO|browserstack_sdk.Program|SDK run started with id: b3d26bfc-947a-42a4-83ef-2ce89b811456
+2025-10-13 19:42:32.4837|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:42:32.7303|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:42:43.0931|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:42:43.0931|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:42:43.8809|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:42:44.8645|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:42:44.8645|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:42:44.8645|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:42:44.9912|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:51:09.7165|INFO|browserstack_sdk.Program|SDK run started with id: 54d64064-f163-4ee5-9f2d-850f399eedcf
+2025-10-13 19:51:09.7717|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:51:09.8860|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:51:22.3148|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:51:22.3148|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:51:23.0670|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:51:23.6585|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:51:23.6585|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:51:23.6585|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:51:23.7042|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:52:34.9895|INFO|browserstack_sdk.Program|SDK run started with id: d9a541f1-bc98-4921-aecf-510515d873b7
+2025-10-13 19:52:35.0391|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:52:35.1364|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:52:44.5345|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:52:44.5345|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:52:45.3718|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:52:45.8381|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:52:45.8381|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:52:45.8381|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:52:45.8851|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:54:51.3736|INFO|browserstack_sdk.Program|SDK run started with id: 0c453704-f7a9-457d-bbfc-b3862e1fbca9
+2025-10-13 19:54:51.4227|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 19:54:51.5160|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 19:54:56.9062|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 19:54:56.9062|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 19:54:57.4702|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 19:54:57.8468|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 19:54:57.8468|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 19:54:57.8468|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 19:54:57.8721|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:09:48.0150|INFO|browserstack_sdk.Program|SDK run started with id: 9d56f432-9e66-4d7f-b011-abc3097e65be
+2025-10-13 20:09:48.1160|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:09:48.2394|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:09:56.4851|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:09:56.4851|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:09:56.9872|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:09:57.3644|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:09:57.3644|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:09:57.3644|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:09:57.3925|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:10:46.7277|INFO|browserstack_sdk.Program|SDK run started with id: cc7cb26a-4200-46c2-87f3-308ce118ea07
+2025-10-13 20:10:46.7791|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:10:46.8913|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:10:54.8438|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:10:54.8438|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:10:55.4193|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:10:55.8239|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:10:55.8239|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:10:55.8239|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:10:55.8567|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:12:26.0402|INFO|browserstack_sdk.Program|SDK run started with id: 44a8d08c-663b-467e-9551-c621ecfb43ae
+2025-10-13 20:12:26.1115|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:12:26.2314|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:12:33.5398|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:12:33.5437|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:12:34.2084|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:12:34.9369|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:12:34.9690|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:12:34.9690|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:12:35.0150|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:17:58.8300|INFO|browserstack_sdk.Program|SDK run started with id: 640e9885-b51c-4058-ac12-847ac1acc4b6
+2025-10-13 20:17:58.8547|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:17:58.8994|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:18:01.6053|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:18:01.6053|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:18:01.9280|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:18:02.0844|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:18:02.0844|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:18:02.0844|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:18:02.0972|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:19:45.0094|INFO|browserstack_sdk.Program|SDK run started with id: ceb82bb4-f8ad-4903-990e-f12d7b3d3742
+2025-10-13 20:19:45.0300|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:19:45.0802|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:19:49.2967|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:19:49.2967|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:19:49.5775|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:19:49.7452|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:19:49.7452|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:19:49.7452|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:19:49.7661|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:20:50.7094|INFO|browserstack_sdk.Program|SDK run started with id: 49e7f72b-567d-410c-b28b-2c7def89a88c
+2025-10-13 20:20:50.7220|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:20:50.7502|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:20:53.2045|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:20:53.2045|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:20:53.4814|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:20:53.6385|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:20:53.6385|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:20:53.6385|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:20:53.6494|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:21:28.6491|INFO|browserstack_sdk.Program|SDK run started with id: 9ca6777d-5a82-4020-9b28-f9906c49d765
+2025-10-13 20:21:28.6653|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:21:28.6969|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:21:31.3745|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:21:31.3745|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:21:31.5928|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:21:31.7546|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:21:31.7546|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:21:31.7546|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:21:31.7657|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:22:58.3706|INFO|browserstack_sdk.Program|SDK run started with id: 49decb53-614e-4248-b840-87ae04138e55
+2025-10-13 20:22:58.3853|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:22:58.4179|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:23:01.0740|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:23:01.0740|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:23:01.3173|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:23:01.4752|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:23:01.4752|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:23:01.4752|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:23:01.4864|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:29:08.3541|INFO|browserstack_sdk.Program|SDK run started with id: 5a964665-d7d5-4635-8f5c-ea38860fe601
+2025-10-13 20:29:08.3790|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:29:08.4332|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:29:12.1753|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:29:12.1753|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:29:12.4471|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:29:12.6270|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:29:12.6270|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:29:12.6270|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:29:12.6392|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:31:09.1140|INFO|browserstack_sdk.Program|SDK run started with id: 71c41166-50ae-4507-ae6d-5f5d5031444f
+2025-10-13 20:31:09.1360|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:31:09.1814|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:31:11.9286|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:31:11.9286|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:31:12.2341|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:31:12.4029|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:31:12.4029|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:31:12.4029|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:31:12.4252|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:35:01.5536|INFO|browserstack_sdk.Program|SDK run started with id: 96efaf9b-9f03-4a23-a671-c812de4c8d08
+2025-10-13 20:35:01.5655|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-13 20:35:01.5941|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-13 20:35:04.1598|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-13 20:35:04.1598|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-13 20:35:04.4326|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-13 20:35:04.5884|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-13 20:35:04.5884|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-13 20:35:04.5884|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-13 20:35:04.5995|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 11:41:02.7080|INFO|browserstack_sdk.Program|SDK run started with id: 2dd30632-b7f5-4932-bfc2-d2ecdeab72e7
+2025-10-14 11:41:02.7683|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 11:41:02.9120|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 11:41:13.4853|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 11:41:13.4853|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 11:41:14.3224|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 11:41:14.8934|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 11:41:14.8934|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 11:41:14.8934|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 11:41:14.9543|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:17:01.1045|INFO|browserstack_sdk.Program|SDK run started with id: d35d1c49-622a-454b-a831-973edd3c385a
+2025-10-14 12:17:01.1045|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:17:01.1557|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:17:03.7141|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:17:03.7141|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:17:03.9624|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:17:04.1286|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:17:04.1286|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:17:04.1286|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:17:04.1483|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:36:05.1624|INFO|browserstack_sdk.Program|SDK run started with id: 22e84697-d903-4db3-9ed8-51ac3dde0da0
+2025-10-14 12:36:05.1889|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:36:05.2158|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:36:07.6063|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:36:07.6063|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:36:07.8509|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:36:08.0112|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:36:08.0112|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:36:08.0112|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:36:08.0326|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:50:03.7184|INFO|browserstack_sdk.Program|SDK run started with id: fd277be2-110c-4f8e-9918-7a4891f7d023
+2025-10-14 12:50:03.7617|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:50:03.8442|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:50:10.0431|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:50:10.0431|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:50:10.5967|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:50:10.9749|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:50:10.9749|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:50:10.9749|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:50:11.0181|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:51:28.0684|INFO|browserstack_sdk.Program|SDK run started with id: a8cc817a-2f4e-4091-b5b8-cb4920d5c4eb
+2025-10-14 12:51:28.0974|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:51:28.1576|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:51:36.0659|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:51:36.0659|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:51:36.8978|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:51:37.1841|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:51:37.1841|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:51:37.1841|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:51:37.2070|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:53:38.6569|INFO|browserstack_sdk.Program|SDK run started with id: 6a7f7637-886d-4ee4-baf8-73a86f68cbe9
+2025-10-14 12:53:38.6946|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:53:38.7684|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:53:45.6284|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:53:45.6307|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:53:46.0923|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:53:46.3840|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:53:46.3840|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:53:46.3840|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:53:46.4168|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:54:24.3325|INFO|browserstack_sdk.Program|SDK run started with id: ec92e601-ec1b-4eb3-a528-71057b63e2eb
+2025-10-14 12:54:24.3598|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:54:24.4260|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:54:30.9720|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:54:30.9720|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:54:31.4707|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:54:31.7518|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-14 12:54:31.7518|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-14 12:54:31.7518|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-14 12:54:31.7819|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:56:57.1689|INFO|browserstack_sdk.Program|SDK run started with id: faafa71d-9746-4a53-8f2a-592c6894a1cd
+2025-10-14 12:56:57.1905|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-14 12:56:57.2398|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-14 12:57:02.8314|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-14 12:57:02.8469|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-14 12:57:03.3486|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-14 12:57:03.3866|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-15 12:48:13.5241|INFO|browserstack_sdk.Program|SDK run started with id: 54357673-98b1-49b1-9d8f-59799b8d2aad
+2025-10-15 12:48:13.5771|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:48:13.8035|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:48:21.1348|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:48:21.1348|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:48:21.6562|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:48:21.9806|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:48:21.9806|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:48:21.9806|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:48:22.0218|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:49:06.6719|INFO|browserstack_sdk.Program|SDK run started with id: 39c65457-d00b-4b00-9077-fa8f7b447ccc
+2025-10-15 12:49:06.7112|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:49:06.7910|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:49:12.9450|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:49:12.9450|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:49:13.4593|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:49:13.7779|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:49:13.7779|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:49:13.7779|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:49:13.8222|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:49:42.9573|INFO|browserstack_sdk.Program|SDK run started with id: a43074c7-6c78-48c2-9f5e-b00ed7034d7f
+2025-10-15 12:49:43.0014|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:49:43.1233|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:49:50.6307|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:49:50.6307|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:49:51.2217|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:49:51.5137|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:49:51.5137|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:49:51.5137|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:49:51.5412|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:52:27.1087|INFO|browserstack_sdk.Program|SDK run started with id: b076b636-75f0-4908-8fb3-4c6b57c8b119
+2025-10-15 12:52:27.1730|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:52:27.3394|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:52:37.0348|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:52:37.0374|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:52:37.5438|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:52:37.9001|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:52:37.9001|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:52:37.9001|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:52:37.9278|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:54:05.6792|INFO|browserstack_sdk.Program|SDK run started with id: d797a57b-055d-40e0-b5bf-d0ea2ce0ec3a
+2025-10-15 12:54:05.7129|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:54:05.8027|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:54:19.2610|INFO|browserstack_sdk.Program|SDK run started with id: 48c4cd37-2c70-4f52-9bfa-f806cfa2a04a
+2025-10-15 12:54:19.2926|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:54:19.3617|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:54:26.4513|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:54:26.4513|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:54:26.9978|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:54:27.4196|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:54:27.4196|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:54:27.4196|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:54:27.4722|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:55:20.8450|INFO|browserstack_sdk.Program|SDK run started with id: 373aebf6-41f4-4c48-ac1e-97ef9e803766
+2025-10-15 12:55:20.8897|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 12:55:20.9667|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 12:55:27.7671|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 12:55:27.7671|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 12:55:28.2725|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 12:55:28.6301|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 12:55:28.6301|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 12:55:28.6301|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 12:55:28.6653|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:06:43.9063|INFO|browserstack_sdk.Program|SDK run started with id: 715436fb-12c3-40a2-91d6-3935259e29c2
+2025-10-15 15:06:43.9524|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 15:06:44.0362|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:06:52.0970|INFO|browserstack_sdk.Program|Detected Selenium version 4.17.0
+2025-10-15 15:06:52.0996|INFO|browserstack_sdk.Program|Running for f/w mstest 3.1.1
+2025-10-15 15:06:52.6247|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 15:06:52.9680|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 15:06:52.9680|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 15:06:52.9680|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 15:06:53.0382|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:09:45.4438|INFO|browserstack_sdk.Program|SDK run started with id: 525c8d6d-7209-4fbd-81f5-7ac33350f157
+2025-10-15 15:09:45.4806|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 15:09:45.5571|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:09:53.9347|INFO|browserstack_sdk.Program|Detected Selenium version 4.17.0
+2025-10-15 15:09:53.9347|INFO|browserstack_sdk.Program|Running for f/w mstest 3.1.1
+2025-10-15 15:09:54.4595|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 15:09:54.8459|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 15:09:54.8459|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 15:09:54.8459|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 15:09:54.8804|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:11:07.2498|INFO|browserstack_sdk.Program|SDK run started with id: 6fb14e6e-13c5-4b29-b740-166c442483f7
+2025-10-15 15:11:07.2838|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-15 15:11:07.3586|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-15 15:11:15.1776|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-15 15:11:15.1776|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-15 15:11:15.7806|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.305
+2025-10-15 15:11:16.1764|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-15 15:11:16.1764|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-15 15:11:16.1764|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-15 15:11:16.2233|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 10:35:43.7216|INFO|browserstack_sdk.Program|SDK run started with id: 0a9e258e-9f44-4c96-b556-6be9c624429e
+2025-10-16 10:35:43.7589|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 10:35:43.8362|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 10:35:50.5178|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 10:35:50.5202|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 10:35:51.0187|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 10:35:51.0555|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 10:36:36.0264|INFO|browserstack_sdk.Program|SDK run started with id: 6fcf275c-b1ff-498d-88fa-14ea9428d174
+2025-10-16 10:36:36.0497|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 10:36:36.1163|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 10:36:41.8460|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 10:36:41.8481|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 10:36:42.3394|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 10:36:42.3721|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:02:49.7895|INFO|browserstack_sdk.Program|SDK run started with id: 61fc5a13-0e9a-4a45-8462-0dd0df29ea83
+2025-10-16 11:02:49.8038|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:02:49.8399|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:02:53.3090|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:02:53.3090|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:02:53.6206|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:02:53.6417|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:09:40.3770|INFO|browserstack_sdk.Program|SDK run started with id: 6be07477-c978-4d18-abb9-15aed592c624
+2025-10-16 11:09:40.3951|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:09:40.4334|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:09:43.0338|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:09:43.0338|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:09:43.2814|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:09:43.3003|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:11:04.3284|INFO|browserstack_sdk.Program|SDK run started with id: 524c158a-1922-4fb1-ba0c-206589cca214
+2025-10-16 11:11:04.3406|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:11:04.3694|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:11:08.0150|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:11:08.0150|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:11:08.3084|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:11:08.3084|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:16:52.3103|INFO|browserstack_sdk.Program|SDK run started with id: 9ac067d1-fd52-46dc-9275-54f3009f75d4
+2025-10-16 11:16:52.3248|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:16:52.3551|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:16:54.7965|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:16:54.7965|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:16:55.0323|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:16:55.0473|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:23:47.9939|INFO|browserstack_sdk.Program|SDK run started with id: 6cdc5e59-d31d-43af-944d-612f78a29f35
+2025-10-16 11:23:48.0074|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:23:48.0395|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:23:50.5832|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:23:50.5832|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:23:50.8469|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:23:51.0207|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:23:51.0207|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:23:51.0207|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-16 11:23:51.0361|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:24:52.6606|INFO|browserstack_sdk.Program|SDK run started with id: dc3c4e15-4346-4854-917b-92e24a45872a
+2025-10-16 11:24:52.6796|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:24:52.7301|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:24:55.2611|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:24:55.2732|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:24:55.5178|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:24:55.6710|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:24:55.6710|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:24:55.6710|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:24:55.6821|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:25:29.0975|INFO|browserstack_sdk.Program|SDK run started with id: 58fb4358-fbac-4a62-904c-909c46e10ee3
+2025-10-16 11:25:29.1114|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:25:29.1437|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:25:32.0035|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:25:32.0035|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:25:32.2456|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:25:32.4155|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:25:32.4155|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:25:32.4155|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:25:32.4281|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:29:01.0008|INFO|browserstack_sdk.Program|SDK run started with id: c0a9ab5e-ef90-44e5-beea-59763fca9ac3
+2025-10-16 11:29:01.0217|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:29:01.0608|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:29:04.1969|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:29:04.1969|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:29:04.4939|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:29:04.6962|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:29:04.6962|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:29:04.6962|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-16 11:29:04.7136|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:29:42.0830|INFO|browserstack_sdk.Program|SDK run started with id: 2b55e8ad-c911-4842-9638-58ee7100bb4b
+2025-10-16 11:29:42.0970|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:29:42.1265|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:29:44.8315|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:29:44.8315|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:29:45.0913|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:29:45.3684|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:29:45.3684|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:29:45.3684|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:29:45.3937|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:32:16.5793|INFO|browserstack_sdk.Program|SDK run started with id: 388f8566-1c3e-4e19-bbf8-18379e14dcaf
+2025-10-16 11:32:16.5793|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:32:16.6249|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:32:19.2974|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:32:19.3135|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:32:19.5524|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:32:19.7353|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:32:19.7353|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:32:19.7353|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:32:19.7506|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:33:01.1301|INFO|browserstack_sdk.Program|SDK run started with id: 89ce29ca-4327-4a30-a24f-9fd7427cda28
+2025-10-16 11:33:01.1462|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:33:01.1830|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:33:04.1829|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:33:04.1829|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:33:04.4670|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:33:04.4856|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 11:39:29.7430|INFO|browserstack_sdk.Program|SDK run started with id: abffc8bb-f551-4a13-a1a4-855f00db1cae
+2025-10-16 11:39:29.7696|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:39:29.8224|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:39:32.8003|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:39:32.8003|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:39:33.0552|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:39:33.2432|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:39:33.2432|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:39:33.2432|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:39:33.2548|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:40:01.4293|INFO|browserstack_sdk.Program|SDK run started with id: 22c3b8f6-afa5-4ba7-8467-887d14b45c04
+2025-10-16 11:40:01.4436|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:40:01.4789|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:40:04.9253|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:40:04.9253|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:40:05.1968|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:40:05.3837|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:40:05.3837|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:40:05.3837|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:40:05.3984|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:41:14.2756|INFO|browserstack_sdk.Program|SDK run started with id: 403d1cf6-2cec-4ac1-a08d-d00cfc7c6683
+2025-10-16 11:41:14.3012|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:41:14.3389|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:41:17.2045|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:41:17.2045|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:41:17.4783|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:41:17.6521|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:41:17.6521|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:41:17.6521|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:41:17.6647|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:41:40.8261|INFO|browserstack_sdk.Program|SDK run started with id: 66623c56-fe03-41eb-a1c1-ef7b9b38a514
+2025-10-16 11:41:40.8509|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:41:40.9010|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:41:44.9103|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:41:44.9103|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:41:45.3121|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:41:45.5517|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:41:45.5517|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:41:45.5517|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:41:45.5694|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:43:45.0805|INFO|browserstack_sdk.Program|SDK run started with id: 874aa6ff-133a-453e-b235-f9f3e28018d3
+2025-10-16 11:43:45.0983|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 11:43:45.1336|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 11:43:48.4960|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 11:43:48.4960|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 11:43:48.7908|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 11:43:48.9655|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 11:43:48.9655|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 11:43:48.9655|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-16 11:43:48.9862|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:16:04.7089|INFO|browserstack_sdk.Program|SDK run started with id: f0dcba37-28aa-41b8-ba7f-c95f1002f438
+2025-10-16 14:16:04.7287|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:16:04.7721|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:16:07.5582|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:16:07.5582|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:16:07.8003|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:16:07.8158|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 14:38:02.0913|INFO|browserstack_sdk.Program|SDK run started with id: 9c97b326-0468-4cd7-ba1b-0c114f425066
+2025-10-16 14:38:02.1947|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:38:02.2626|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:38:08.6137|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:38:08.6137|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:38:08.8902|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:38:08.9081|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 14:38:27.2384|INFO|browserstack_sdk.Program|SDK run started with id: dfe8e575-ea82-422c-9921-09093e595436
+2025-10-16 14:38:27.3205|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:38:27.5030|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:38:32.5383|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:38:32.5383|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:38:32.8850|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:38:32.9081|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 14:40:05.1347|INFO|browserstack_sdk.Program|SDK run started with id: bcc7c590-502f-4a76-8e6c-0c5c2dd7ae1c
+2025-10-16 14:40:05.1628|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:40:05.2824|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:40:10.3757|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:40:10.3757|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:40:10.6980|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:40:10.7197|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 14:42:53.9233|INFO|browserstack_sdk.Program|SDK run started with id: f5c4e218-c400-478a-8287-bcb0adf42a53
+2025-10-16 14:42:53.9402|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:42:53.9712|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:42:56.8000|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:42:56.8000|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:42:57.0394|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:42:57.0559|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 14:45:02.0445|INFO|browserstack_sdk.Program|SDK run started with id: 1d705241-6b49-4ae3-b02a-e7a1d9f2c1b6
+2025-10-16 14:45:02.1088|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 14:45:02.2313|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 14:45:07.3743|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 14:45:07.3743|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 14:45:07.7154|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 14:45:07.7390|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 15:20:00.1976|INFO|browserstack_sdk.Program|SDK run started with id: 31f88389-8c25-403a-8373-105948f4dee8
+2025-10-16 15:20:00.2203|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 15:20:00.2883|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 15:20:04.4633|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 15:20:04.4633|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 15:20:04.7753|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 15:20:04.7950|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 15:54:15.2200|INFO|browserstack_sdk.Program|SDK run started with id: f141fa48-6f5a-461d-a1e9-e222bdf047e2
+2025-10-16 15:54:15.2426|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 15:54:15.3040|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 15:54:22.4482|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 15:54:22.4482|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 15:54:22.8950|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 15:54:23.1733|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-16 15:54:23.1733|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-16 15:54:23.1733|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-16 15:54:23.1968|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 15:56:23.9940|INFO|browserstack_sdk.Program|SDK run started with id: bf672908-99e1-4bfd-b045-12cfb59f4aa4
+2025-10-16 15:56:24.0159|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 15:56:24.0617|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 15:56:27.1328|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 15:56:27.1328|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 15:56:27.4659|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 15:56:27.4854|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 17:30:58.4931|INFO|browserstack_sdk.Program|SDK run started with id: 6cc4e564-7954-4971-babb-413eb82438d3
+2025-10-16 17:30:58.5336|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 17:30:58.6059|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 17:31:05.6237|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 17:31:05.6237|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 17:31:05.9473|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 17:31:05.9721|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 21:53:11.1715|INFO|browserstack_sdk.Program|SDK run started with id: e293870a-f3d3-478b-a753-a71f536a6f07
+2025-10-16 21:53:11.1865|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 21:53:11.2218|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 21:53:14.0414|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 21:53:14.0414|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 21:53:14.2941|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 21:53:14.3160|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 21:53:49.5303|INFO|browserstack_sdk.Program|SDK run started with id: fc0ef3af-134c-4156-afcd-7f4f4883f906
+2025-10-16 21:53:49.5303|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 21:53:49.5777|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 21:53:51.9650|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 21:53:51.9650|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 21:53:52.2109|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 21:53:52.2263|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 21:54:06.1951|INFO|browserstack_sdk.Program|SDK run started with id: 9e7c08a9-cb54-46fe-aed8-023bade417ef
+2025-10-16 21:54:06.1951|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 21:54:06.2382|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 21:54:08.6999|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 21:54:08.6999|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 21:54:08.9284|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 21:54:08.9468|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-16 21:58:45.3348|INFO|browserstack_sdk.Program|SDK run started with id: d9698b3a-651d-468c-a0c6-9c228d4cf33c
+2025-10-16 21:58:45.3695|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-16 21:58:45.4053|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-16 21:58:48.2948|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-16 21:58:48.2948|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-16 21:58:48.5621|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-16 21:58:48.5777|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-20 15:50:33.6088|INFO|browserstack_sdk.Program|SDK run started with id: d5b219a7-5ce1-4909-a3b4-9de2cb056c14
+2025-10-20 15:50:33.6319|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 15:50:33.6898|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:50:36.8181|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 15:50:36.8181|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 15:50:37.0663|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 15:50:37.1932|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:50:37.1932|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 15:50:37.1932|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-20 15:50:37.2103|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:51:07.5272|INFO|browserstack_sdk.Program|SDK run started with id: 27bcab19-90e5-4f7f-8b1a-f61838b46adc
+2025-10-20 15:51:07.5416|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 15:51:07.5738|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:51:09.9893|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 15:51:09.9893|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 15:51:10.2319|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 15:51:10.3371|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:51:10.3371|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 15:51:10.3371|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 15:51:10.3502|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:51:50.1405|INFO|browserstack_sdk.Program|SDK run started with id: ac56a456-6efb-427e-b54b-299b4aa4b57c
+2025-10-20 15:51:50.1533|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 15:51:50.1891|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:51:52.7250|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 15:51:52.7250|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 15:51:52.9652|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 15:51:53.0879|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:51:53.0879|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 15:51:53.0879|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 15:51:53.1011|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:52:07.9795|INFO|browserstack_sdk.Program|SDK run started with id: 0a01a8d4-a2e6-4571-bc78-814a81e020ea
+2025-10-20 15:52:07.9960|INFO|browserstack_sdk.Program|Running SDK with args: --skip-build-browserstack, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:52:07.9960|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 27104
+2025-10-20 15:52:08.0273|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:52:10.6077|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 15:52:10.6077|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 15:52:10.8348|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 15:52:10.9639|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:52:10.9639|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 15:52:10.9639|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] CliShouldSpawn: testFramework=mstest
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] CliShouldSpawn: IsTurboScaleSession=False
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] CliShouldSpawn: IsTestOrchestrationEnabled=False
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] CliShouldSpawn: isSpecflow=False
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] CliShouldSpawn: isReqnroll=False
+2025-10-20 15:52:10.9670|INFO|BrowserstackSDK.v2.BrowserstackCLI|[SDKCLI][3252] Disabling Cli for framework=mstest
+2025-10-20 15:52:10.9670|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2025-10-20 15:52:19.7989|INFO|TestObservability.BuildLifeCycle|Testhub started with id: sbpaubiuht0vtpiia9cpb7z3zjs1hd1qydo0el9h
+2025-10-20 15:52:19.7989|INFO|TestObservability.BuildLifeCycle|[TEST REPORTING AND ANALYTICS] Build Started Successfully, build id: sbpaubiuht0vtpiia9cpb7z3zjs1hd1qydo0el9h
+2025-10-20 15:52:19.7989|INFO|browserstack_sdk.Utils.OrchestrationPoller|AbortBuildOnFailure is not enabled or not supported for the framework:mstest
+2025-10-20 15:52:51.1745|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: Adapter process exited, exiting cli process
+2025-10-20 15:52:51.1865|INFO|BrowserStackSDK.v2.utils.FileUploader|Starting PostRunCleanUp for 0 tracked thread(s)
+2025-10-20 15:52:51.1865|INFO|BrowserStackSDK.v2.utils.FileUploader|Cleaned up 0 attachment directories
+2025-10-20 15:52:51.2068|INFO|BrowserStackSDK.v2.utils.FileUploader|Cleaned up 0 build metadata files, 0 test metadata files, and 0 other BrowserStack temp files
+2025-10-20 15:52:51.2068|INFO|BrowserStackSDK.v2.utils.FileUploader|Cleared all custom metadata from CustomTagManager
+2025-10-20 15:52:51.2068|INFO|BrowserStackSDK.v2.utils.FileUploader|PostRunCleanUp completed
+2025-10-20 15:52:52.5004|INFO|TestObservability.BuildLifeCycle|Visit https://automation.browserstack.com/builds/sbpaubiuht0vtpiia9cpb7z3zjs1hd1qydo0el9h to view build report
+2025-10-20 15:53:08.8424|INFO|browserstack_sdk.Program|SDK run started with id: 8f1194ad-310f-4f08-aa82-37146725b29e
+2025-10-20 15:53:08.8580|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 15:53:08.8903|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 15:53:11.7301|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 15:53:11.7301|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 15:53:11.9609|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 15:53:11.9809|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-20 16:04:23.3400|INFO|browserstack_sdk.Program|SDK run started with id: 4059893e-d7d5-4a6f-adec-37fc034d626d
+2025-10-20 16:04:23.3542|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:04:23.3922|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:04:26.8647|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:04:26.8647|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:04:27.1183|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:04:27.2547|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:04:27.2547|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:04:27.2547|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:04:27.2769|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:04:58.2968|INFO|browserstack_sdk.Program|SDK run started with id: f7bd5a6f-623a-4588-9a41-bdc65115557d
+2025-10-20 16:04:58.3127|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:04:58.3495|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:05:01.3825|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:05:01.3825|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:05:01.6587|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:05:01.7932|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:05:01.7932|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:05:01.7932|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:05:01.8077|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:05:26.6390|INFO|browserstack_sdk.Program|SDK run started with id: 376c3076-38f0-46a8-ba2c-777c880c76b6
+2025-10-20 16:05:26.6548|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:05:26.6946|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:05:29.4457|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:05:29.4457|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:05:29.7434|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:05:29.9067|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:05:29.9067|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:05:29.9067|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:05:29.9228|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:07:12.2806|INFO|browserstack_sdk.Program|SDK run started with id: 70168061-10a7-496e-bd28-85f5475213fa
+2025-10-20 16:07:12.3007|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:07:12.3470|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:07:15.4259|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:07:15.4259|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:07:15.6927|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:07:15.8386|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:07:15.8386|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:07:15.8386|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:07:15.8541|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:08:35.4869|INFO|browserstack_sdk.Program|SDK run started with id: a44b0ca3-99ed-49ef-ae6b-2ca95ea54141
+2025-10-20 16:08:35.5023|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:08:35.5334|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:08:39.2524|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:08:39.2524|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:08:39.5467|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:08:39.5649|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-20 16:09:02.4545|INFO|browserstack_sdk.Program|SDK run started with id: 3c1196fb-d065-4df4-a52b-5210b4afd12b
+2025-10-20 16:09:02.4697|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:09:02.5004|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:09:05.2317|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:09:05.2317|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:09:05.4745|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:09:05.4903|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-20 16:16:12.8857|INFO|browserstack_sdk.Program|SDK run started with id: 955f1b86-47db-48a2-8109-8b97df2ea544
+2025-10-20 16:16:12.9075|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:16:12.9499|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:16:16.2630|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:16:16.2630|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:16:16.5295|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:16:16.6767|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:16:16.6767|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:16:16.6767|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:16:16.6986|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:16:32.3485|INFO|browserstack_sdk.Program|SDK run started with id: db25b0b0-7eb9-4fbf-be91-606894fbd259
+2025-10-20 16:16:32.3681|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:16:32.4360|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:16:36.8055|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:16:36.8055|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:16:37.0988|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:16:37.3220|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:16:37.3220|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:16:37.3220|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:16:37.3398|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:17:09.5305|INFO|browserstack_sdk.Program|SDK run started with id: dcb72c86-fa75-441e-94e1-9fc85e1f1ca4
+2025-10-20 16:17:09.5496|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:17:09.5979|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:17:13.0936|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:17:13.0936|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:17:13.3935|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:17:13.5810|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:17:13.5810|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:17:13.5810|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:17:13.6003|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:17:41.3282|INFO|browserstack_sdk.Program|SDK run started with id: e872dd89-3214-400b-a268-7792f393ddb1
+2025-10-20 16:17:41.3489|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:17:41.3827|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:17:44.2607|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:17:44.2730|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:17:44.5518|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:17:44.7178|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:17:44.7178|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:17:44.7178|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:17:44.7342|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:21:48.2955|INFO|browserstack_sdk.Program|SDK run started with id: d3bc736e-cd87-49b6-a5e2-fb50c83ead09
+2025-10-20 16:21:48.3269|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:21:48.3832|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:21:51.8840|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:21:51.8840|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:21:52.2318|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:21:52.4321|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:21:52.4321|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:21:52.4321|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:21:52.4484|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:24:05.2104|INFO|browserstack_sdk.Program|SDK run started with id: c8b0a283-24ae-4717-955e-6f4ad6770fe5
+2025-10-20 16:24:05.2268|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:24:05.2584|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:24:08.4852|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:24:08.4852|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:24:08.8439|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:24:09.0405|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:24:09.0405|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:24:09.0405|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:24:09.0652|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:24:29.8271|INFO|browserstack_sdk.Program|SDK run started with id: ab75b609-4586-4628-a67b-e4c5aa5ed974
+2025-10-20 16:24:29.8608|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:24:29.9210|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:24:35.3706|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:24:35.3706|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:24:35.7413|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:24:35.9422|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:24:35.9422|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:24:35.9422|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:24:35.9655|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:30:30.7560|INFO|browserstack_sdk.Program|SDK run started with id: 7bdfefbb-c133-4cc6-bc38-e546a6f5e1eb
+2025-10-20 16:30:31.0171|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:30:31.2709|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:30:51.9044|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:30:51.9044|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:30:52.7780|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:30:53.3420|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:30:53.3420|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:30:53.3420|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:30:53.3890|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:34:10.2411|INFO|browserstack_sdk.Program|SDK run started with id: cde349b8-4cb4-4926-b7ca-d66c0a7ed7c4
+2025-10-20 16:34:10.3731|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:34:10.5640|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:34:20.7371|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:34:20.7371|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:34:21.5387|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:34:22.0773|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:34:22.0773|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:34:22.0773|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:34:22.1602|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:35:40.3242|INFO|browserstack_sdk.Program|SDK run started with id: adfc4596-0555-4c1d-942f-7432d009e141
+2025-10-20 16:35:40.3885|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:35:40.5374|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:35:48.4659|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:35:48.4659|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:35:49.0767|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:35:49.4479|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:35:49.4479|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:35:49.4487|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:35:49.5122|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:39:23.5595|INFO|browserstack_sdk.Program|SDK run started with id: a10311ae-1f37-4f76-86b3-9356840e7b73
+2025-10-20 16:39:23.6692|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:39:23.8082|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:39:32.2364|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:39:32.2364|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:39:32.8795|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:39:33.2816|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:39:33.2816|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:39:33.2816|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:39:33.3415|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:42:28.9506|INFO|browserstack_sdk.Program|SDK run started with id: 7171570a-1f58-481d-a32f-c78be4913434
+2025-10-20 16:42:28.9654|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:42:28.9990|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:42:32.0238|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:42:32.0238|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:42:32.3243|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:42:32.5307|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:42:32.5307|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:42:32.5307|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:42:32.5559|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:43:08.2132|INFO|browserstack_sdk.Program|SDK run started with id: 1837cf3b-4724-42b4-8d4a-98920867d2ec
+2025-10-20 16:43:08.2318|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-20 16:43:08.2686|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-20 16:43:11.2095|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-20 16:43:11.2095|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-20 16:43:11.5084|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-20 16:43:11.6712|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 16:43:11.6712|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-20 16:43:11.6712|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-20 16:43:11.6958|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:19:08.9474|INFO|browserstack_sdk.Program|SDK run started with id: 5974632b-5915-4b9c-b49d-9af37ae39972
+2025-10-27 21:19:08.9901|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:19:09.0951|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:19:15.3466|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:19:15.3466|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:19:15.8565|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:19:15.9005|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-27 21:26:18.4851|INFO|browserstack_sdk.Program|SDK run started with id: 4af14214-cfdf-4e4c-a88b-4f0d51b17ed5
+2025-10-27 21:26:18.5195|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:26:18.5943|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:26:24.3564|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:26:24.3564|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:26:24.8294|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:26:25.0955|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-27 21:26:25.0955|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-27 21:26:25.0955|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: TestReporting And Analytics setup completed.
+2025-10-27 21:26:25.1307|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:27:33.5319|INFO|browserstack_sdk.Program|SDK run started with id: f9916921-2b85-4554-adb0-7085c9643b59
+2025-10-27 21:27:33.5564|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:27:33.6434|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:27:40.0930|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:27:40.0953|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:27:40.6281|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:27:40.9087|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-27 21:27:40.9087|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-27 21:27:40.9087|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-27 21:27:40.9453|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:29:49.0280|INFO|browserstack_sdk.Program|SDK run started with id: 5406c3db-2446-4010-ac16-3f69ae676bfc
+2025-10-27 21:29:49.0576|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:29:49.1212|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:29:55.1421|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:29:55.1421|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:29:55.7641|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:29:56.0561|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-27 21:29:56.0561|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-27 21:29:56.0561|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-27 21:29:56.0953|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:30:21.4944|INFO|browserstack_sdk.Program|SDK run started with id: 308ed545-dec0-443c-bd24-bfc667fd1df6
+2025-10-27 21:30:21.5467|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:30:21.6502|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:30:30.6854|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:30:30.6875|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:30:31.3878|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:30:31.8060|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-27 21:30:31.8060|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-27 21:30:31.8060|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-27 21:30:31.8754|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:31:48.3535|INFO|browserstack_sdk.Program|SDK run started with id: cabde08a-91ca-4687-be26-c812f91f87bf
+2025-10-27 21:31:48.3820|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-27 21:31:48.4968|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-27 21:31:55.3452|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-27 21:31:55.3623|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-27 21:31:55.8396|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-27 21:31:55.8767|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-28 10:17:24.1241|INFO|browserstack_sdk.Program|SDK run started with id: bd0b8fc6-97a9-4a40-ae2f-b29282e9f878
+2025-10-28 10:17:24.1378|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 10:17:24.1680|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 10:17:26.7521|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 10:17:26.7521|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 10:17:27.0201|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 10:17:27.0346|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-28 10:18:01.4909|INFO|browserstack_sdk.Program|SDK run started with id: 9fd6ef88-d9e4-44fd-8ca5-24db5843503c
+2025-10-28 10:18:01.5078|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 10:18:01.5407|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 10:18:04.3002|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 10:18:04.3002|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 10:18:04.5364|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 10:18:04.5510|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-28 11:18:40.4070|INFO|browserstack_sdk.Program|SDK run started with id: 962b1811-6cf5-46d8-990d-26732e35bff8
+2025-10-28 11:18:40.4200|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:18:40.4538|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:18:43.1670|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:18:43.1670|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:18:43.4053|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:18:43.4267|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 770
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 669
+2025-10-28 11:20:17.5009|INFO|browserstack_sdk.Program|SDK run started with id: 9c061375-7927-4571-aadd-832de695f695
+2025-10-28 11:20:17.5166|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:20:17.5495|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:20:20.4304|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:20:20.4304|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:20:20.6890|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:20:20.8421|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:20:20.8421|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:20:20.8421|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:20:20.8585|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:20:52.9071|INFO|browserstack_sdk.Program|SDK run started with id: 01f8750d-1fbb-482d-aa39-9ff46d4469b8
+2025-10-28 11:20:52.9275|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:20:52.9780|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:20:57.3567|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:20:57.3567|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:20:57.6870|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:20:57.8392|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:20:57.8392|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:20:57.8392|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:20:57.8575|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:27:10.6921|INFO|browserstack_sdk.Program|SDK run started with id: 573c1d77-10c3-40dc-95f2-f28988385e4e
+2025-10-28 11:27:10.7049|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:27:10.7349|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:27:13.1689|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:27:13.1689|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:27:13.4021|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:27:13.5094|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:27:13.5094|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:27:13.5094|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:27:13.5254|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:27:32.5009|INFO|browserstack_sdk.Program|SDK run started with id: f75c682f-c05b-4144-8f92-e55a1820581a
+2025-10-28 11:27:32.5275|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:27:32.5639|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:27:35.2819|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:27:35.2819|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:27:35.5494|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:27:35.7027|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:27:35.7027|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:27:35.7027|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:27:35.7190|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:28:38.9219|INFO|browserstack_sdk.Program|SDK run started with id: e9cb393d-634b-4540-b0b6-0279a75087a1
+2025-10-28 11:28:38.9376|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:28:38.9715|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:28:41.4518|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:28:41.4518|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:28:41.6871|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:28:41.8154|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:28:41.8154|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:28:41.8154|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:28:41.8297|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:29:15.0273|INFO|browserstack_sdk.Program|SDK run started with id: 4deef1e3-b784-4374-91d8-62b6eaa3a59e
+2025-10-28 11:29:15.0527|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:29:15.0829|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:29:17.7619|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:29:17.7619|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:29:18.0211|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:29:18.1444|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:29:18.1444|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:29:18.1444|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:29:18.1583|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:30:18.2159|INFO|browserstack_sdk.Program|SDK run started with id: 4ad96e71-21f1-42cf-aaa1-35fa26693453
+2025-10-28 11:30:18.2425|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:30:18.2784|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:30:21.1728|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:30:21.1728|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:30:21.4334|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:30:21.5476|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:30:21.5476|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:30:21.5476|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:30:21.5769|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:33:26.1843|INFO|browserstack_sdk.Program|SDK run started with id: 3bb5c839-5b80-4eb2-bd0d-8b32cbf184d4
+2025-10-28 11:33:26.2079|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:33:26.2366|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:33:28.5936|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:33:28.5936|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:33:28.8380|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:33:28.9638|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:33:28.9638|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:33:28.9638|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:33:28.9822|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:35:30.3609|INFO|browserstack_sdk.Program|SDK run started with id: 8599851a-0469-4081-a908-477ab331cb70
+2025-10-28 11:35:30.3782|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:35:30.4127|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:35:33.3295|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:35:33.3295|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:35:33.6133|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:35:33.7460|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:35:33.7460|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:35:33.7460|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:35:33.7636|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:36:13.7065|INFO|browserstack_sdk.Program|SDK run started with id: 73f9eb17-2333-41e6-8454-606145456bdf
+2025-10-28 11:36:13.7238|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:36:13.7561|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:36:16.7049|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:36:16.7049|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:36:17.0023|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:36:17.1607|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:36:17.1607|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:36:17.1607|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:36:17.1802|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:37:12.0456|INFO|browserstack_sdk.Program|SDK run started with id: b5a2dc9e-5690-4f37-b2da-53c815d9d552
+2025-10-28 11:37:12.0456|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:37:12.0892|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:37:14.6067|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:37:14.6067|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:37:14.8632|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:37:14.9922|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:37:14.9922|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:37:14.9922|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:37:15.0128|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:55:22.9450|INFO|browserstack_sdk.Program|SDK run started with id: b21400fe-8bdc-45f6-a18e-7f4a60a84957
+2025-10-28 11:55:22.9716|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:55:23.0478|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:55:31.2266|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:55:31.2266|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:55:31.9836|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:55:32.4201|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:55:32.4201|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:55:32.4201|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:55:32.4529|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:58:53.4920|INFO|browserstack_sdk.Program|SDK run started with id: 475bbdc1-fdbd-4ee9-a22d-5f76526f39d6
+2025-10-28 11:58:53.5150|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 11:58:53.5784|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 11:58:59.4899|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 11:58:59.4920|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 11:59:00.0029|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 11:59:00.3011|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 11:59:00.3011|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 11:59:00.3011|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 11:59:00.3376|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:00:37.2443|INFO|browserstack_sdk.Program|SDK run started with id: ed8d9be7-2200-4ee1-9dfa-8f6278af2bf1
+2025-10-28 12:00:37.2930|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:00:37.3763|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:00:45.0621|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:00:45.0621|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:00:45.5733|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:00:45.8647|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:00:45.8647|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:00:45.8647|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:00:45.9027|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:12:48.8112|INFO|browserstack_sdk.Program|SDK run started with id: 8bd5afe2-3add-49a0-b242-a2aebda4c80f
+2025-10-28 12:12:48.8251|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:12:48.8555|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:12:51.6672|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:12:51.6672|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:12:51.9397|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:12:52.1029|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:12:52.1029|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:12:52.1029|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:12:52.1260|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:17:07.4178|INFO|browserstack_sdk.Program|SDK run started with id: 86d8417f-3571-4217-bbbb-d8757f068f0d
+2025-10-28 12:17:07.4316|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:17:07.4676|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:17:10.3990|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:17:10.3990|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:17:10.7072|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:17:10.8327|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:17:10.8327|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:17:10.8327|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:17:10.8509|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:22:09.9820|INFO|browserstack_sdk.Program|SDK run started with id: 319cb538-6259-4d47-a572-6ce8c967a6ec
+2025-10-28 12:22:10.0115|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:22:10.0450|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:22:12.7322|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:22:12.7322|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:22:13.0018|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:22:13.1605|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:22:13.1605|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:22:13.1605|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:22:13.1877|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:22:35.4370|INFO|browserstack_sdk.Program|SDK run started with id: 1767436f-d93c-4536-8838-3506d4ce6eb4
+2025-10-28 12:22:35.4529|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:22:35.4865|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:22:38.1807|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:22:38.1807|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:22:38.4381|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:22:38.5779|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:22:38.5779|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:22:38.5779|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:22:38.5949|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:24:55.8798|INFO|browserstack_sdk.Program|SDK run started with id: 75424fb7-6165-4023-b266-40e0062092cc
+2025-10-28 12:24:55.9091|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:24:55.9394|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:24:59.4463|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:24:59.4463|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:24:59.6775|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:24:59.7885|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:24:59.7885|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:24:59.7885|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:24:59.8027|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:25:14.9315|INFO|browserstack_sdk.Program|SDK run started with id: 8442efb3-0536-4d5c-b32b-ab0d4a7f3329
+2025-10-28 12:25:14.9315|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 12:25:14.9758|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 12:25:17.4814|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 12:25:17.4814|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 12:25:17.7257|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 12:25:17.8568|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 12:25:17.8568|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 12:25:17.8568|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 12:25:17.8757|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 14:13:00.5150|INFO|browserstack_sdk.Program|SDK run started with id: b0f324c7-ea20-4040-bdea-48368527b43e
+2025-10-28 14:13:00.5642|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-10-28 14:13:00.6785|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-10-28 14:13:07.5542|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-10-28 14:13:07.5542|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-10-28 14:13:08.1006|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-10-28 14:13:08.3991|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-28 14:13:08.3991|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-10-28 14:13:08.3991|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-10-28 14:13:08.4477|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 15:40:05.2329|INFO|browserstack_sdk.Program|SDK run started with id: 06c3880c-0539-49e7-9b7f-e1ebb2921401
+2025-11-18 15:40:05.2514|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-11-18 15:40:05.2895|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 15:40:08.3506|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-11-18 15:40:08.3506|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-11-18 15:40:08.6277|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-11-18 15:40:08.7773|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18 15:40:08.7773|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-11-18 15:40:08.7773|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-11-18 15:40:08.7972|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 15:49:53.4997|INFO|browserstack_sdk.Program|SDK run started with id: 62d0e524-96c3-4b6a-a655-1ca60e9675d6
+2025-11-18 15:49:53.5188|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-11-18 15:49:53.5526|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 15:49:56.5779|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-11-18 15:49:56.5779|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-11-18 15:49:56.8280|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-11-18 15:49:56.9662|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18 15:49:56.9662|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-11-18 15:49:56.9662|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-11-18 15:49:56.9816|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 19:20:58.8709|INFO|browserstack_sdk.Program|SDK run started with id: cfafa29d-53fd-4286-9aba-65c3fee90cc6
+2025-11-18 19:20:58.8975|INFO|browserstack_sdk.Program|Running SDK with args: --add-patch-bstack, obj\Debug\net8.0, C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll, Debug
+2025-11-18 19:20:59.0094|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2025-11-18 19:21:09.1438|INFO|browserstack_sdk.Program|Detected Selenium version 4.35.0
+2025-11-18 19:21:09.1438|INFO|browserstack_sdk.Program|Running for f/w mstest 3.10.4
+2025-11-18 19:21:10.2661|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.306
+2025-11-18 19:21:10.7857|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18 19:21:10.7857|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2025-11-18 19:21:10.7857|INFO|browserstack_sdk.Program|Setup TEST REPORTING AND ANALYTICS: File already exists
+2025-11-18 19:21:10.8447|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe

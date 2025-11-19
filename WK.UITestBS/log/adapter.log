@@ -1,0 +1,6 @@
+2025-10-20 15:52:07.2204|INFO|BStack.VisualStudio.TestAdapter.BStackAdapter|mstest test started from test explorer
+2025-10-20 15:52:07.2621|INFO|A.E|Invoking browserstack-sdk with args: --skip-build-browserstack "C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll"" --settings "C:\Users\Ghanshyam.Bhamare\AppData\Local\Temp\.browserstack\.runsettings" --filter "(FullyQualifiedName=WK.UITest.OneSupportPortalUI.ContactUsTest.ML_ContactUsFromMenu_ExternalUser&Name=ML_ContactUsFromMenu_ExternalUser)"
+2025-10-20 15:52:07.2621|INFO|A.E|Starting file watcher in background...
+2025-10-20 15:52:07.2621|INFO|A.E|Setting test assembly Path - C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-20 15:52:07.2621|INFO|A.E|File watcher started
+2025-10-20 15:52:07.2621|INFO|A.E|File watcher started on a background thread.

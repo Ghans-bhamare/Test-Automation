@@ -1,0 +1,41 @@
+2025-10-25T13:33:23.3961670+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-10-25T13:33:23.4241621+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-10-25T13:33:23.4265297+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-10-25T13:33:23.4265446+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 13:33:23.220
+2025-10-25T13:33:23.4266545+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 37636
+2025-10-25T13:33:23.4269440+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.21
+2025-10-25T13:33:23.4269767+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.21\System.Private.CoreLib.dll
+2025-10-25T13:33:23.4270152+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-10-25T13:33:23.4271204+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T13:33:23.4277019+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\Log --results-directory C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\TestResults --client-port 52721'
+2025-10-25T13:33:23.4415045+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-10-25T13:33:23.7393845+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-10-25T13:33:23.8297769+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-10-25T13:33:25.9350871+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-10-25T13:33:26.1275739+00:00 mstest-trace INFORMATION MSTestExecutor.RunTests: Running tests from sources.
+2025-10-25T13:33:26.1796722+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-10-25T13:33:27.8308177+00:00 mstest-trace INFORMATION DynamicDataEnumerator: Exception occurred while enumerating IDataSource attribute on "WK.UITest.SalesforceIntegration.SFIntegrationTest.TR_4349_GetKBArticleByName(System.String,System.String,System.String,System.String)": System.ArgumentNullException: Value cannot be null. (Parameter 'Method KBArticleData')
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataOperations.GetData(Type dynamicDataDeclaringType, DynamicDataSourceType dynamicDataSourceType, String dynamicDataSourceName, Object[] dynamicDataSourceArguments, MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataOperations.cs:line 45
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataAttribute.GetData(MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataAttribute.cs:line 161
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSource(ITestDataSource dataSource, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, UnitTestElement test, ReflectionTestMethodInfo methodInfo, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 411
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSources(UnitTestElement test, DiscoveryTestMethodInfo testMethodInfo, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 359
+2025-10-25T13:33:28.9104770+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 1752 tests from source C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T13:33:29.0634010+00:00 mstest-trace INFORMATION Created unit-test runner C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T13:33:29.1018791+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll (Workers: 1, Scope: MethodLevel)
+2025-10-25T13:33:29.1279865+00:00 mstest-trace INFORMATION Executing test VerifyAdminMenuNavigation
+2025-10-25T13:37:49.4481927+00:00 mstest-trace INFORMATION Executed test VerifyAdminMenuNavigation
+2025-10-25T13:37:49.4595844+00:00 mstest-trace INFORMATION MSTestExecutor:Test WK.UITest.OneSupportPortalUI.AdminTest.VerifyAdminMenuNavigation failed. ErrorMessage:Assert.Fail failed. Some menu navigations failed:
+Exception for Application Status: element not interactable
+  (Session info: chrome=141.0.7390.109)
+Exception for Chat Schedule: element not interactable
+  (Session info: chrome=141.0.7390.109)
+Exception for Manage Products: no such element: Unable to locate element: {"method":"xpath","selector":"//*[normalize-space(text())='Admin']/ancestor::*//*[normalize-space(text())='Manage Products']"}
+  (Session info: chrome=141.0.7390.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Exception for Product release schedule: no such element: Unable to locate element: {"method":"xpath","selector":"//*[normalize-space(text())='Admin']/ancestor::*//*[normalize-space(text())='Product release schedule']"}
+  (Session info: chrome=141.0.7390.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Exception for Product release notes: no such element: Unable to locate element: {"method":"xpath","selector":"//*[normalize-space(text())='Admin']/ancestor::*//*[normalize-space(text())='Product release notes']"}
+  (Session info: chrome=141.0.7390.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception, ErrorStackTrace:   at WK.UITest.OneSupportPortalUI.AdminTest.VerifyAdminMenuNavigation() in C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\Admin\AdminTest.cs:line 106
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+.
+2025-10-25T13:37:49.4708523+00:00 mstest-trace INFORMATION Executed tests belonging to source C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll

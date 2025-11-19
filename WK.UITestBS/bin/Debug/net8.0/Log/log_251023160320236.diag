@@ -1,0 +1,23 @@
+2025-10-23T16:03:20.2435973+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-10-23T16:03:20.2562426+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-10-23T16:03:20.2577700+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-10-23T16:03:20.2577799+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 16:03:20.199
+2025-10-23T16:03:20.2578285+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 20288
+2025-10-23T16:03:20.2579473+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.21
+2025-10-23T16:03:20.2579540+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.21\System.Private.CoreLib.dll
+2025-10-23T16:03:20.2579646+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-10-23T16:03:20.2580154+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-23T16:03:20.2582037+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\Log --results-directory C:\TestAutomation\TestResults --client-port 62323'
+2025-10-23T16:03:20.2607204+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-10-23T16:03:20.3286147+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-10-23T16:03:20.3511802+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-10-23T16:03:20.7898840+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-10-23T16:03:20.8040230+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Runsettings attribute 'MaxCpuCount' is not supported by Microsoft.Testing.Platform and will be ignored
+2025-10-23T16:03:20.8251400+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-10-23T16:03:21.4625787+00:00 mstest-trace INFORMATION DynamicDataEnumerator: Exception occurred while enumerating IDataSource attribute on "WK.UITest.SalesforceIntegration.SFIntegrationTest.TR_4349_GetKBArticleByName(System.String,System.String,System.String,System.String)": System.ArgumentNullException: Value cannot be null. (Parameter 'Method KBArticleData')
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataOperations.GetData(Type dynamicDataDeclaringType, DynamicDataSourceType dynamicDataSourceType, String dynamicDataSourceName, Object[] dynamicDataSourceArguments, MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataOperations.cs:line 45
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataAttribute.GetData(MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataAttribute.cs:line 161
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSource(ITestDataSource dataSource, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, UnitTestElement test, ReflectionTestMethodInfo methodInfo, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 411
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSources(UnitTestElement test, DiscoveryTestMethodInfo testMethodInfo, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 359
+2025-10-23T16:03:21.9260805+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 1752 tests from source C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-23T16:03:25.2008266+00:00 Microsoft.Testing.Extensions.Telemetry.AppInsightsProvider WARNING Telemetry task didn't flush after '3', some payload could be lost

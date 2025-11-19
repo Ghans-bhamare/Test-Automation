@@ -1,0 +1,36 @@
+2025-10-25T11:24:17.9258376+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-10-25T11:24:17.9647110+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-10-25T11:24:17.9704415+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-10-25T11:24:17.9704651+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 11:24:17.842
+2025-10-25T11:24:17.9706022+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 40172
+2025-10-25T11:24:17.9709037+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.21
+2025-10-25T11:24:17.9709211+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.21\System.Private.CoreLib.dll
+2025-10-25T11:24:17.9709480+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-10-25T11:24:17.9711221+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T11:24:17.9718874+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\Log --results-directory C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\TestResults --client-port 52841'
+2025-10-25T11:24:17.9766903+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-10-25T11:24:18.0730461+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-10-25T11:24:18.1300577+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-10-25T11:24:18.8515307+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-10-25T11:24:18.9174021+00:00 mstest-trace INFORMATION MSTestExecutor.RunTests: Running tests from sources.
+2025-10-25T11:24:18.9256904+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-10-25T11:24:20.2577700+00:00 mstest-trace INFORMATION DynamicDataEnumerator: Exception occurred while enumerating IDataSource attribute on "WK.UITest.SalesforceIntegration.SFIntegrationTest.TR_4349_GetKBArticleByName(System.String,System.String,System.String,System.String)": System.ArgumentNullException: Value cannot be null. (Parameter 'Method KBArticleData')
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataOperations.GetData(Type dynamicDataDeclaringType, DynamicDataSourceType dynamicDataSourceType, String dynamicDataSourceName, Object[] dynamicDataSourceArguments, MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataOperations.cs:line 45
+   at Microsoft.VisualStudio.TestTools.UnitTesting.DynamicDataAttribute.GetData(MethodInfo methodInfo) in /_/src/TestFramework/TestFramework/Attributes/DataSource/DynamicDataAttribute.cs:line 161
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSource(ITestDataSource dataSource, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, UnitTestElement test, ReflectionTestMethodInfo methodInfo, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 411
+   at Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Discovery.AssemblyEnumerator.TryUnfoldITestDataSources(UnitTestElement test, DiscoveryTestMethodInfo testMethodInfo, TestDataSourceUnfoldingStrategy dataSourcesUnfoldingStrategy, List`1 tests) in /_/src/Adapter/MSTestAdapter.PlatformServices/Discovery/AssemblyEnumerator.cs:line 359
+2025-10-25T11:24:21.7516613+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 1752 tests from source C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T11:24:21.9159245+00:00 mstest-trace INFORMATION Created unit-test runner C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-10-25T11:24:21.9348744+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll (Workers: 1, Scope: MethodLevel)
+2025-10-25T11:24:21.9622739+00:00 mstest-trace INFORMATION Executing test VerifyAdminMenuNavigation
+2025-10-25T11:27:37.5451040+00:00 mstest-trace INFORMATION Executed test VerifyAdminMenuNavigation
+2025-10-25T11:27:37.5558928+00:00 mstest-trace INFORMATION MSTestExecutor:Test WK.UITest.OneSupportPortalUI.AdminTest.VerifyAdminMenuNavigation failed. ErrorMessage:One or more errors occurred. (Test method WK.UITest.OneSupportPortalUI.AdminTest.VerifyAdminMenuNavigation threw exception: 
+System.Exception: Error occured in method clickLogInAsWKEmp_Button. Exception is: OpenQA.Selenium.WebDriverTimeoutException : timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=141.0.7390.109)) (Assembly Cleanup method UITestBase.AssemblyCleanup failed. Error Message: System.ComponentModel.Win32Exception: An error occurred trying to start process 'C:\ExecutionReports\20251025045422_UITestReport\20251025045422_UITestReport.html.html' with working directory 'C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0'. The system cannot find the file specified.. StackTrace:    at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at WK.UITest.Logger.LaunchExecutionResultFile() in C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\Logger.cs:line 49
+   at WK.UITest.UITestBase.AssemblyCleanup() in C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\UITestBase.cs:line 236
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+), ErrorStackTrace:.
+2025-10-25T11:27:37.5634277+00:00 mstest-trace INFORMATION Executed tests belonging to source C:\Users\Ghanshyam.Bhamare\source\repos\WK.TAA.SupportSite\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll

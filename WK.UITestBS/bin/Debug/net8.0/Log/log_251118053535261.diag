@@ -1,0 +1,56 @@
+2025-11-18T05:35:35.2732847+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.4+ac62226a2475fb11f9a6a0bfba3498dc5a707a49
+2025-11-18T05:35:35.2858350+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-11-18T05:35:35.2870549+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-11-18T05:35:35.2870626+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 05:35:35.202
+2025-11-18T05:35:35.2871123+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 47488
+2025-11-18T05:35:35.2872257+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.21
+2025-11-18T05:35:35.2872374+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.21\System.Private.CoreLib.dll
+2025-11-18T05:35:35.2872532+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-11-18T05:35:35.2873035+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18T05:35:35.2877067+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\Log --results-directory C:\TestAutomation\TestResults --client-port 52843'
+2025-11-18T05:35:35.2944336+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-11-18T05:35:35.4147288+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-11-18T05:35:35.4564386+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-11-18T05:35:36.0021183+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.10.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-11-18T05:35:36.0923106+00:00 mstest-trace INFORMATION MSTestExecutor.RunTests: Running tests from sources.
+2025-11-18T05:35:36.1185295+00:00 mstest-trace INFORMATION CollectSourceInformation value found : False 
+2025-11-18T05:35:36.2493958+00:00 mstest-trace INFORMATION MSTestDiscoverer: Found 8 tests from source C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18T05:35:36.2963154+00:00 mstest-trace INFORMATION Created unit-test runner C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll
+2025-11-18T05:35:36.3185875+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll (Workers: 1, Scope: MethodLevel)
+2025-11-18T05:35:36.3420032+00:00 mstest-trace INFORMATION Executing test ML_AccessVideoLibrary_HomePage_ExternalUser
+2025-11-18T05:37:54.5408519+00:00 mstest-trace INFORMATION Executed test ML_AccessVideoLibrary_HomePage_ExternalUser
+2025-11-18T05:37:54.5458519+00:00 mstest-trace INFORMATION Executing test ML_AccessVideoLibrary_DirectURL_ExternalUser
+2025-11-18T05:39:51.2580997+00:00 mstest-trace INFORMATION Executed test ML_AccessVideoLibrary_DirectURL_ExternalUser
+2025-11-18T05:39:51.2587713+00:00 mstest-trace INFORMATION Executing test ML_HotTopicsAndMostViewed_ExternalUser
+2025-11-18T05:43:08.5746153+00:00 mstest-trace INFORMATION Executed test ML_HotTopicsAndMostViewed_ExternalUser
+2025-11-18T05:43:08.5753553+00:00 mstest-trace INFORMATION Executing test ML_CategoryAndTopic_ExternalUser
+2025-11-18T05:44:15.7766448+00:00 mstest-trace INFORMATION Executed test ML_CategoryAndTopic_ExternalUser
+2025-11-18T05:44:15.7779145+00:00 mstest-trace INFORMATION Executing test Canada_AccessVideoLibrary_DirectURL_ExternalUser
+2025-11-18T05:45:11.4974687+00:00 mstest-trace INFORMATION Executed test Canada_AccessVideoLibrary_DirectURL_ExternalUser
+2025-11-18T05:45:11.4975419+00:00 mstest-trace INFORMATION MSTestExecutor:Test WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_AccessVideoLibrary_DirectURL_ExternalUser failed. ErrorMessage:Assert.Fail failed. System.Exception: Error occured in method clickOnVideo. Exception is: OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <img _ngcontent-ng-c400796494="" class="thumbnail" src="https://img.youtube.com/vi/Aom_NOssmCg/hqdefault.jpg"> is not clickable at point (640, 88). Other element would receive the click: <div id="onetrust-group-container" class="ot-sdk-twelve ot-sdk-columns">...</div>
+  (Session info: chrome=142.0.7444.60)
+   at WK.UITest.CanadaPageModels.VideoLibraryPage.clickOnVideo() in C:\TestAutomation\WK.UITestBS\CanadaPageModels\VideoLibraryPage.cs:line 112
+   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_AccessVideoLibrary_DirectURL_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 405, ErrorStackTrace:   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_AccessVideoLibrary_DirectURL_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 417
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+.
+2025-11-18T05:45:11.4984846+00:00 mstest-trace INFORMATION Executing test Canada_HotTopicsAndMostViewed_ExternalUser
+2025-11-18T05:46:55.8865857+00:00 mstest-trace INFORMATION Executed test Canada_HotTopicsAndMostViewed_ExternalUser
+2025-11-18T05:46:55.8874150+00:00 mstest-trace INFORMATION Executing test Canada_CategoryAndTopic_ExternalUser
+2025-11-18T06:15:43.4315238+00:00 mstest-trace INFORMATION Executed test Canada_CategoryAndTopic_ExternalUser
+2025-11-18T06:15:43.4318138+00:00 mstest-trace INFORMATION MSTestExecutor:Test WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_CategoryAndTopic_ExternalUser failed. ErrorMessage:Assert.Fail failed. System.Exception: Error occured in method clickOnVideo. Exception is: OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <img _ngcontent-ng-c400796494="" class="thumbnail" src="https://img.youtube.com/vi/sfUsgl4_uzU/hqdefault.jpg"> is not clickable at point (640, 312). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=142.0.7444.60)
+   at WK.UITest.CanadaPageModels.VideoLibraryPage.clickOnVideo() in C:\TestAutomation\WK.UITestBS\CanadaPageModels\VideoLibraryPage.cs:line 112
+   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_CategoryAndTopic_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 553, ErrorStackTrace:   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_CategoryAndTopic_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 565
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+.
+2025-11-18T06:15:43.4323662+00:00 mstest-trace INFORMATION Executing test Canada_ChangeLanguage_ExternalUser
+2025-11-18T06:16:40.0952176+00:00 mstest-trace INFORMATION Executed test Canada_ChangeLanguage_ExternalUser
+2025-11-18T06:16:40.0955231+00:00 mstest-trace INFORMATION MSTestExecutor:Test WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_ChangeLanguage_ExternalUser failed. ErrorMessage:Assert.Fail failed. System.Exception: Error occured in method clickOnKnowledgeBaseMenu. Exception is: OpenQA.Selenium.WebDriverTimeoutException : Timed out after 30 seconds
+   at WK.UITest.CanadaPageModels.HomePage.clickOnKnowledgeBaseMenu() in C:\TestAutomation\WK.UITestBS\CanadaPageModels\HomePage.cs:line 286
+   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_ChangeLanguage_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 584, ErrorStackTrace:   at WK.UITest.OneSupportPortalUI.VideoLibraryTest.Canada_ChangeLanguage_ExternalUser() in C:\TestAutomation\WK.UITestBS\OneSupportPortalUI\TestCases\VideoLibrabyTest.cs:line 666
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+.
+2025-11-18T06:16:40.0970707+00:00 mstest-trace INFORMATION Executed tests belonging to source C:\TestAutomation\WK.UITestBS\bin\Debug\net8.0\WK.UITestBS.dll

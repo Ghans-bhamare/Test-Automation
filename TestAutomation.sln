@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WK.UITestBS", "WK.UITestBS\WK.UITestBS.csproj", "{F6A46842-7A87-46F4-EBFE-9F43822F46A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev2|Any CPU = Dev2|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Dev2|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Dev2|Any CPU.Build.0 = Release|Any CPU
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A46842-7A87-46F4-EBFE-9F43822F46A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C598400-50A0-48D5-B0A1-E64F1BD40E36}
+	EndGlobalSection
+EndGlobal
